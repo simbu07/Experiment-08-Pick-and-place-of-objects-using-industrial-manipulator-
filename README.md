@@ -1,9 +1,9 @@
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
 ### Aim :
-      To pick and place a regular shape using two finger gripper on the conveyor belt 
+To pick and place a regular shape using two finger gripper on the conveyor belt 
 ### Equipment Required: 
-      Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
+Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
       
 ### Theory: 
 
@@ -74,7 +74,8 @@ Installation position: floor, ceiling, walls.
 
 #### Procedure : 
 
-1. click on dart platfom icon ![image](https://user-images.githubusercontent.com/36288975/201621038-f1248586-5c20-40fd-8a74-68c7d8b44939.png)
+1. click on dart platfom icon 
+![image](https://user-images.githubusercontent.com/36288975/201621038-f1248586-5c20-40fd-8a74-68c7d8b44939.png)
 2. click on the internet interface 
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
@@ -84,22 +85,20 @@ and click on the connect icon
 
 
 
+### output:
+#### ACTIONS OF ROBOT:
+![j1](https://user-images.githubusercontent.com/94525786/203351952-02f30b7a-f02c-44b4-bd81-dfdd61c42b73.jpeg)
+![j2](https://user-images.githubusercontent.com/94525786/203352022-aca30afb-b1f0-481d-b8f9-dd28019f28a5.jpeg)
+![j3](https://user-images.githubusercontent.com/94525786/203352069-c7c70d89-867b-4111-93af-a16d69985b09.jpeg)
 
 
+#### ASSIGNING MOVEMENT:
 
-
-
-
-
-
-
-
-
-
-
-
-### output video and screen shots of pick and place 
-
+![p1](https://user-images.githubusercontent.com/94525786/203351051-c1d29434-8945-451c-9ace-b1b2506ebfed.jpeg)
+![p2](https://user-images.githubusercontent.com/94525786/203351067-0fb81e8e-ccf9-4a95-8af2-c76b3ec1aa2d.jpeg)
+![p3](https://user-images.githubusercontent.com/94525786/203351073-3d95dc6d-e47f-4182-8a21-049094397dea.jpeg)
+![p4](https://user-images.githubusercontent.com/94525786/203351076-3e2e6c17-b016-4df0-a567-39cbc80f943d.jpeg)
+![p5](https://user-images.githubusercontent.com/94525786/203351080-638204d7-14fd-4676-901d-517d2e79d8e3.jpeg)
 
 
 
@@ -107,6 +106,7 @@ and click on the connect icon
 
 
 ### Results: 
+Thus the Experiment To pick and place a regular shape using two finger gripper on the conveyor belt is successfully completed!..
 
 
 
