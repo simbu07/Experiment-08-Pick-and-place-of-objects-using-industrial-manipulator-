@@ -86,6 +86,10 @@ and click on the connect icon
 
 
 ### output:
+```
+Name: Silambarasan K
+Reg No: 212221230101
+```
 #### ACTIONS OF ROBOT:
 ![j1](https://user-images.githubusercontent.com/94525786/203351952-02f30b7a-f02c-44b4-bd81-dfdd61c42b73.jpeg)
 ![j2](https://user-images.githubusercontent.com/94525786/203352022-aca30afb-b1f0-481d-b8f9-dd28019f28a5.jpeg)
@@ -93,9 +97,6 @@ and click on the connect icon
 
 
 #### ASSIGNING MOVEMENT:
-
-![p1](https://user-images.githubusercontent.com/94525786/203351051-c1d29434-8945-451c-9ace-b1b2506ebfed.jpeg)
-![p2](https://user-images.githubusercontent.com/94525786/203351067-0fb81e8e-ccf9-4a95-8af2-c76b3ec1aa2d.jpeg)
 ![p3](https://user-images.githubusercontent.com/94525786/203351073-3d95dc6d-e47f-4182-8a21-049094397dea.jpeg)
 ![p4](https://user-images.githubusercontent.com/94525786/203351076-3e2e6c17-b016-4df0-a567-39cbc80f943d.jpeg)
 ![p5](https://user-images.githubusercontent.com/94525786/203351080-638204d7-14fd-4676-901d-517d2e79d8e3.jpeg)
