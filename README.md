@@ -1,4 +1,4 @@
-# Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
+## Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
 ### Aim :
 To pick and place a regular shape using two finger gripper on the conveyor belt 
